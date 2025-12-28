@@ -1,6 +1,11 @@
-# 👋 Hi, I’m yuvraj
-- 👀 I’m interested in embedded systems, Python automation, and creative tech solutions  
-- 🌱 I’m currently learning Python and working on cool Arduino-based projects  
-- 💞️ I’m looking to collaborate on hackathons, beginner-friendly open-source projects, and hardware/software mashups  
-- 📫 How to reach me: [yuvii2028@gmail.com]
-- ⚡ Fun fact: I can turn a boring presentation into a showstopper! Also, I love turning tiny wires and code into smart gadgets 🌟
+Hi, I’m Yuvraj
+
+👀 Interests: Embedded systems, Python automation, and creative tech solutions
+
+🌱 Currently learning: Python, while building cool projects
+
+💞️ Open to collaborate on: Hackathons, beginner-friendly open-source projects, and hardware–software mashups
+
+📫 Reach me at: yuvii2028@gmail.com
+
+⚡ Fun fact: I can turn a boring presentation into a showstopper—and I love transforming tiny wires and lines of code into smart gadgets 🌟
